@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Abstract sound waves",
+      "imageUrl": "https://images.unsplash.com/photo-1528848998563-8c41c7972252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhYnN0cmFjdCUyMGF1ZGlvfGVufDB8fHx8MTc1OTE0MjAzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract audio"
+    },
+    {
+      "id": "2",
+      "description": "Vintage microphone",
+      "imageUrl": "https://images.unsplash.com/photo-1567255418477-42066df75420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2aW50YWdlJTIwbWljcm9waG9uZXxlbnwwfHx8fDE3NTkxMzgwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage microphone"
+    },
+    {
+      "id": "3",
+      "description": "Neon equalizer display",
+      "imageUrl": "https://images.unsplash.com/photo-1695381517092-4ce2bb9569e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZW9uJTIwZXF1YWxpemVyfGVufDB8fHx8MTc1OTE2NzE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neon equalizer"
+    },
+    {
+      "id": "4",
+      "description": "A person wearing headphones",
+      "imageUrl": "https://images.unsplash.com/photo-1693841114567-0565c3f64edf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoZWFkcGhvbmVzJTIwbXVzaWN8ZW58MHx8fHwxNzU5MDgwMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones music"
+    },
+    {
+      "id": "5",
+      "description": "A DJ mixing board",
+      "imageUrl": "https://images.unsplash.com/photo-1642177437932-75d846ad48f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkaiUyMG1peGluZ3xlbnwwfHx8fDE3NTkxNjcxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dj mixing"
+    },
+    {
+      "id": "6",
+      "description": "Close-up of a vinyl record",
+      "imageUrl": "https://images.unsplash.com/photo-1602848596718-45693ff58c78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2aW55bCUyMHJlY29yZHxlbnwwfHx8fDE3NTkwOTI3MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vinyl record"
+    },
+    {
+      "id": "7",
+      "description": "A concert stage with lights",
+      "imageUrl": "https://images.unsplash.com/photo-1578850141295-7fb35c301da6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25jZXJ0JTIwc3RhZ2V8ZW58MHx8fHwxNzU5MTQ5OTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert stage"
+    },
+    {
+      "id": "8",
+      "description": "Acoustic guitar in a cozy room",
+      "imageUrl": "https://images.unsplash.com/photo-1588449668365-d15e397f6787?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhY291c3RpYyUyMGd1aXRhcnxlbnwwfHx8fDE3NTkwNDM3MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "acoustic guitar"
+    }
+  ]
+}
